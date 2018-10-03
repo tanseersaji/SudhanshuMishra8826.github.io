@@ -67,7 +67,7 @@ body{
 	background-color: grey;
 	color: white;
 }
-.Hello2{
+.Hello2{background-color: grey;
 	background-image: url("back2.jpg");
 	background-size: cover;
 	background-position: center;
@@ -118,7 +118,7 @@ body{
 	background-color: grey;
 	color: white;
 }
-.Hello3{
+.Hello3{background-color: grey;
 	background-image: url("back4.jpg");
 	background-size: cover;
 	background-position: center;

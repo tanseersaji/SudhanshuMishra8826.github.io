@@ -16,7 +16,7 @@ body{
 		color:white;
 		line-height: 1.6;
 	}
-.Hello{
+.Hello{	background-color: grey;
 	background-image: url("back1.jpg");
 	background-size: cover;
 	background-position: center;
